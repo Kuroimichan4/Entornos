@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\x MP 0487 Entorns de desemvolupament\\Practicas\\5. Objetos C\u002B\u002B\\ConsoleApplicationJuegoOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69711181-3CA0-4A60-A0CE-26B8F0AC5C07}|ConsoleApplicationJuegoOO.vcxproj|D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\x MP 0487 Entorns de desemvolupament\\Practicas\\5. Objetos C\u002B\u002B\\ConsoleApplication1\\GameAppOO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69711181-3CA0-4A60-A0CE-26B8F0AC5C07}|ConsoleApplicationJuegoOO.vcxproj|D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\x MP 0487 Entorns de desemvolupament\\Practicas\\5. Objetos C\u002B\u002B\\ConsoleApplication1\\Boss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69711181-3CA0-4A60-A0CE-26B8F0AC5C07}|ConsoleApplicationJuegoOO.vcxproj|D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\x MP 0487 Entorns de desemvolupament\\Practicas\\5. Objetos C\u002B\u002B\\ConsoleApplication1\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69711181-3CA0-4A60-A0CE-26B8F0AC5C07}|ConsoleApplicationJuegoOO.vcxproj|D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\x MP 0487 Entorns de desemvolupament\\Practicas\\5. Objetos C\u002B\u002B\\ConsoleApplication1\\Radiante.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Boss.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\x MP 0487 Entorns de desemvolupament\\Practicas\\5. Objetos C\u002B\u002B\\ConsoleApplication1\\Boss.cpp",
+              "RelativeDocumentMoniker": "..\\ConsoleApplication1\\Boss.cpp",
+              "ToolTip": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\x MP 0487 Entorns de desemvolupament\\Practicas\\5. Objetos C\u002B\u002B\\ConsoleApplication1\\Boss.cpp",
+              "RelativeToolTip": "..\\ConsoleApplication1\\Boss.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T06:07:57.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\x MP 0487 Entorns de desemvolupament\\Practicas\\5. Objetos C\u002B\u002B\\ConsoleApplication1\\Character.cpp",
+              "RelativeDocumentMoniker": "..\\ConsoleApplication1\\Character.cpp",
+              "ToolTip": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\x MP 0487 Entorns de desemvolupament\\Practicas\\5. Objetos C\u002B\u002B\\ConsoleApplication1\\Character.cpp",
+              "RelativeToolTip": "..\\ConsoleApplication1\\Character.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T06:07:54.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameAppOO.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\x MP 0487 Entorns de desemvolupament\\Practicas\\5. Objetos C\u002B\u002B\\ConsoleApplication1\\GameAppOO.cpp",
+              "RelativeDocumentMoniker": "..\\ConsoleApplication1\\GameAppOO.cpp",
+              "ToolTip": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\x MP 0487 Entorns de desemvolupament\\Practicas\\5. Objetos C\u002B\u002B\\ConsoleApplication1\\GameAppOO.cpp",
+              "RelativeToolTip": "..\\ConsoleApplication1\\GameAppOO.cpp",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T06:07:53.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Radiante.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\x MP 0487 Entorns de desemvolupament\\Practicas\\5. Objetos C\u002B\u002B\\ConsoleApplication1\\Radiante.cpp",
+              "RelativeDocumentMoniker": "..\\ConsoleApplication1\\Radiante.cpp",
+              "ToolTip": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\x MP 0487 Entorns de desemvolupament\\Practicas\\5. Objetos C\u002B\u002B\\ConsoleApplication1\\Radiante.cpp",
+              "RelativeToolTip": "..\\ConsoleApplication1\\Radiante.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T06:07:51.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
